@@ -59,3 +59,9 @@ CRUD completo con Python, Django y una base de datos SQLite3, usando el patrón 
   
   </li>
 </ul>
+
+## RECURSOS
+<ul>
+<li> <a href="https://drive.google.com/file/d/1GvKh1ZDCwxeXUT9WaI91p7C9xT05LzSJ/view?usp=sharing">MANUAL DE INSTALACIÓN DE DJANGO </a>  </li>
+</ul>
+
