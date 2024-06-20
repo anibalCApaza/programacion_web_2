@@ -9,7 +9,8 @@ CRUD completo con Python, Django y una base de datos SQLite3, usando el patrón 
     <li><a href="https://www.python.org/">Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" target="_blank" width="15px" > </a></li>
     <li><a href="https://www.djangoproject.com/">Django <img src="https://www.svgrepo.com/show/353657/django-icon.svg" target="_blank" width=15px></a></li>
     <li><a href="https://getbootstrap.com/">Bootstrap <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" target="_blank" width="15px"></a></li>
-    <li><a href="https://mariadb.org/">MariaDB <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/MariaDB_colour_logo.svg" target="_blank" width="50px"></a></li>
+    <li><a href=https://sqlite.org/">SQLite <img src="![image](https://github.com/anibalCApaza/programacion_web_2/assets/92649656/13596f28-bcdc-41a2-8749-95a97beb13df)
+" target="_blank" width="50px"></a></li>
     
 </ul>
 
