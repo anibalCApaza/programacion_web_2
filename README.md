@@ -14,7 +14,7 @@ CRUD completo con Python, Django y una base de datos SQLite3, usando el patrón 
     
 </ul>
 
-## Instalación del proyecto en local (requiere tener instalado Python y Git previamente)
+## Manual de Instalación del proyecto en local (requiere tener instalado Python y Git previamente)
 
 <ul>
 <li>
