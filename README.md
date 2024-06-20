@@ -68,6 +68,6 @@ CRUD completo con Python, Django y una base de datos SQLite3, usando el patrón 
 
 ## VIDEOS
 <ul>
-<li> <a href="https://www.youtube.com/watch?v=aNaG9DHjq3o">DESCRIBIENDO DJANGO </a>  </li>
 <li> <a href="https://drive.google.com/file/d/1RjUw6tySbPdPVTLotFCC8bsWt8MvNjxX/view?usp=sharing">INSTALACIÓN DE DJANGO </a>  </li>
+<li> <a href="https://www.youtube.com/watch?v=aNaG9DHjq3o">TIMELAPSE DEL DESARROLLO DE UN CRUD EN DJANGO </a>  </li>
 </ul>
