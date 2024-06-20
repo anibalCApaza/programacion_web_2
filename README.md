@@ -62,12 +62,17 @@ CRUD completo con Python, Django y una base de datos SQLite3, usando el patrón 
 
 ## RECURSOS
 <ul>
+
 <li> <a href="https://drive.google.com/file/d/1GvKh1ZDCwxeXUT9WaI91p7C9xT05LzSJ/view?usp=sharing">MANUAL DE INSTALACIÓN DE DJANGO </a>  </li>
 <li> <a href="https://drive.google.com/file/d/1vHcVOCMMnC0g11n2o745N7kIDYgPf8_0/view?usp=drive_link">FOLLETO DE INFORMACIÓN DE DJANGO </a>  </li>
+<li> <a href="https://drive.google.com/file/d/1OCw_f46jlBz9-0shYL2-rGnSoy9vzk7J/view?usp=drive_link">MANUAL DE INSTALACIÓN DEL PROYECTO CRUD EN DJANGO </a>  </li>
+
 </ul>
 
 ## VIDEOS
 <ul>
 <li> <a href="https://drive.google.com/file/d/1RjUw6tySbPdPVTLotFCC8bsWt8MvNjxX/view?usp=sharing">INSTALACIÓN DE DJANGO </a>  </li>
+<li> <a href="https://drive.google.com/file/d/1FnHVbZ_-1JVucMMWRnaymOkE1rgyvK9F/view?usp=sharing">VISTAS EN DJANGO </a>  </li>
+<li> <a href="https://drive.google.com/file/d/1dP5qZ_f14R1ng9BNizYExHfUA116YWKR/view?usp=drive_link">MODELOS EN DJANGO</a>  </li>
 <li> <a href="https://www.youtube.com/watch?v=aNaG9DHjq3o">TIMELAPSE DEL DESARROLLO DE UN CRUD EN DJANGO </a>  </li>
 </ul>
